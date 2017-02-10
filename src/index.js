@@ -1,6 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
 import LeaderboardTable from './components/leaderboardTable';
-require("./../dist/scss/style.scss");
+import "es5-shim";
 
-render( <LeaderboardTable />, document.querySelector('.main'));
+require("./scss/style.scss");
+
+render( <LeaderboardTable />, document.getElementById('main'));

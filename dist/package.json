@@ -1,0 +1,11 @@
+{
+ "name": "recipebox",
+ "version": "1.0.0",
+ "description": "recipebox",
+ "author": "leah frye",
+ "private": true,
+ "scripts": {
+   "start": "node server.js",
+   "postinstall": "npm install express"
+ }
+}

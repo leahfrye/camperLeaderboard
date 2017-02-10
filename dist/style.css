@@ -1,0 +1,22 @@
+body {
+  margin-top: 40px; }
+
+table thead {
+  user-select: none; }
+
+table tr .index {
+  font-size: 16px;
+  text-align: center; }
+
+table tr td {
+  line-height: 35px; }
+  table tr td img {
+    width: 35px;
+    border-radius: 5px;
+    margin-right: 15px; }
+
+.arrowDown {
+  font-size: 12px;
+  font-color: #333333;
+  margin-left: 5px;
+  margin-bottom: 5px; }
