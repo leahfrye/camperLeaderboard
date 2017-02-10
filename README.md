@@ -16,7 +16,7 @@ View here: https://boiling-spire-16120.herokuapp.com/
 
 ### Dev server
 
-+ npm start
++ npm server
 
 ### Compile
 
